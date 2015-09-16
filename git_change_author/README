@@ -1,0 +1,8 @@
+A script to rename the author of previous commits.
+
+Usage: Fill in the following lines at top of the script.
+
+OLD_EMAIL=""
+CORRECT_NAME=""
+CORRECT_EMAIL=""
+
