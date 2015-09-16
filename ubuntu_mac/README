@@ -1,0 +1,12 @@
+Scripts that help with Ubuntu install on Mac.
+
+--------------------------
+mac_res.sh
+--------------------------
+Set the resolution whenever it's called.
+By default, Ubuntu uses the max resolution (2880x1800) which is really hard to read.
+
+--------------------------
+touchpad.sh
+--------------------------
+_Supposed_ to make the touchpad less sensitive so the pointer won't randomly click places when typing.
