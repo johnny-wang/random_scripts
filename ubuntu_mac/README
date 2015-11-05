@@ -10,3 +10,15 @@ By default, Ubuntu uses the max resolution (2880x1800) which is really hard to r
 touchpad.sh
 --------------------------
 _Supposed_ to make the touchpad less sensitive so the pointer won't randomly click places when typing.
+
+
+--------------------------
+vimrc
+--------------------------
+Add vimrc to /root/.vimrc
+
+May need to change ownership of ~/.viminfo:
+
+% sudo chown user:group ~/.viminfo
+
+user and group are often the same as your username.
